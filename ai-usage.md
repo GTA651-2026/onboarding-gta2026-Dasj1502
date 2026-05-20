@@ -10,8 +10,8 @@
 
 ## 1. Outil utilisé
 
-Outil : __
-Version / date d'accès : __
+Outil : copilot
+Version / date d'accès : claude haiku 4.5 / 20 mai 2026
 
 *(Si plusieurs outils, dupliquez cette section.)*
 
@@ -21,7 +21,7 @@ Version / date d'accès : __
 
 *(Tâche précise — ex. : « structurer la section ROI », pas : « écrire le travail ».)*
 
-__
+j'ai demandé à copilot de me créer un nouveau document contenant des sources pour les différents agents et de modifier le document pré-rempli selon les informations trouver dans les sources.
 
 ---
 
@@ -29,8 +29,7 @@ __
 
 *(Pour chaque affirmation ou chiffre fourni par l'IA → source primaire consultée.)*
 
-- __
-- __
+- j'ai vérifier si les chiffres monaitaires avait du sens.
 
 ---
 
@@ -38,8 +37,7 @@ __
 
 *(Ce que l'IA a proposé mais que vous avez changé, corrigé ou écarté — et pourquoi.)*
 
-- __
-- __
+- Aucune modification n'a été effectuer 
 
 ---
 
@@ -48,5 +46,5 @@ __
 Je déclare que le contenu final reflète mon jugement personnel. Je suis responsable
 de l'exactitude, de la pertinence et du raisonnement — outil IA utilisé ou non.
 
-Nom : __
-Date : __
+Nom : Jérôme DaSilva 
+Date : 20 mai 2026
